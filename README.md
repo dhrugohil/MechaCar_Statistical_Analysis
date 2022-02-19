@@ -32,5 +32,12 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 - The p value is at 1, which is above the significance level of 5%, which tells us that the PSI across all manufacturing lots is statistically indifferent from the population mean of 1,500 pounds per square inch.
 
+## Study Design: MechaCar vs Competition
+
+
+
+
+
+
 
 
