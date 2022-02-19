@@ -20,7 +20,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 <img width="505" alt="Screen Shot 2022-02-19 at 3 58 45 PM" src="https://user-images.githubusercontent.com/93164021/154818868-41811b25-6bfd-424f-aea8-830a9e218855.png">
 
--The variance PSI for lot1 and lot2 are way below the design specifications, hence meeting the critreia. However, the variance for lot3 is at 170, which is way above the design specifications. This also explains why the variance without the group by is at 60. 
+- The variance PSI for lot1 and lot2 are way below the design specifications, hence meeting the critreia. However, the variance for lot3 is at 170, which is way above the design specifications. This also explains why the variance without the group by is at 60. 
 
 
 
