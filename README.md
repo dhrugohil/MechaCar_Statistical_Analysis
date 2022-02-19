@@ -25,6 +25,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ## T-Tests on Suspension Coils
 
 <img width="424" alt="Screen Shot 2022-02-19 at 4 36 51 PM" src="https://user-images.githubusercontent.com/93164021/154819969-48372ddc-dd2a-4663-811a-f8f8f254cae8.png">
+
 - The p value is at 0.06, which is above the significance level of 5%, which tells us that the PSI across all manufacturing lots is statistically indifferent from the population mean of 1,500 pounds per square inch.
 
 <img width="496" alt="Screen Shot 2022-02-19 at 4 37 08 PM" src="https://user-images.githubusercontent.com/93164021/154819975-4aeffc28-242c-447f-811a-da1e36928de3.png">
