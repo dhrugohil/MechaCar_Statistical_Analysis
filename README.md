@@ -34,6 +34,11 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ## Study Design: MechaCar vs Competition
 
+In order for customers to compare and quantify how the MechaCar performs against the competitions, data can be collected involving the fuel efficiency and maintenance costs for the vehicles. These are two variables that prove to be the most significant when an individual decides to purchase a vehicle.
+The null hypothesis would be, the fuel efficieny or maintenence cost of Mechacar is greater than or equal to that of the competition while the alternative hypothesis would be that the fuel efficieny or maintenance cost of Mechacar is lower than that of its competition. 
+The statistical test to be used in such an analysis would be a two-sample t-test as the data is continuous and we want to assess if there is a statistical difference between the distribution means from two samples.
+
+
 
 
 
