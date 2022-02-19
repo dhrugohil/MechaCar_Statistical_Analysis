@@ -12,3 +12,16 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 - The p-value of the regression model is at 0.00009, which portrays the significance of the model and that the linear model predicts mpg of MechaCar prototypes effectively.
 
+## Summary Statistics on Suspension Coils
+
+<img width="483" alt="Screen Shot 2022-02-19 at 3 50 37 PM" src="https://user-images.githubusercontent.com/93164021/154818600-765d10f0-ab56-4ee2-a0a1-5df726e23c76.png">
+
+- The variance PSI is at 62.3. This meets the design specifications for the MechaCar suspension coils.
+
+<img width="505" alt="Screen Shot 2022-02-19 at 3 58 45 PM" src="https://user-images.githubusercontent.com/93164021/154818868-41811b25-6bfd-424f-aea8-830a9e218855.png">
+
+-The variance PSI for lot1 and lot2 are way below the design specifications, hence meeting the critreia. However, the variance for lot3 is at 170, which is way above the design specifications. This also explains why the variance without the group by is at 60. 
+
+
+
+
